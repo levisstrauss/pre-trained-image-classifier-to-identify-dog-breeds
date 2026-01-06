@@ -271,12 +271,4 @@ Classifier labels may contain multiple terms separated by commas (e.g., "dalmati
 - Limited to breeds present in ImageNet training data
 - Requires images to be named with correct labels for accuracy assessment
 
-## License
 
-This project is licensed under the MIT License.
-
-## Acknowledgments
-
-- Udacity AI Programming with Python Nanodegree
-- PyTorch team for pre-trained models
-- ImageNet dataset contributors
